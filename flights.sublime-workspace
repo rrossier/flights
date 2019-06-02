@@ -1,0 +1,957 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"glo",
+				"globalMetadataFile"
+			],
+			[
+				"arra",
+				"arrayInputs"
+			],
+			[
+				"outB",
+				"outboundDate"
+			],
+			[
+				"ev",
+				"ev_final"
+			],
+			[
+				"name",
+				"nameAirportDepart"
+			],
+			[
+				"cla",
+				"classeVoyageAller"
+			],
+			[
+				"heure",
+				"heureDepartAller"
+			],
+			[
+				"max",
+				"maxPrice"
+			],
+			[
+				"url",
+				"url_root"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"a",
+				"acquereur"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"fluxGlo",
+				"fluxGlobauxCondense"
+			],
+			[
+				"flux",
+				"flux_possibles"
+			],
+			[
+				"hono",
+				"honorairesExternes"
+			],
+			[
+				"hon",
+				"honorairesConcentrateur"
+			],
+			[
+				"date",
+				"dateSignaturePrevue"
+			],
+			[
+				"le",
+				"legend\tTag"
+			],
+			[
+				"bienHas",
+				"bienHasEtapes"
+			],
+			[
+				"agence",
+				"agenceBien"
+			],
+			[
+				"etap",
+				"etapeHasBien"
+			],
+			[
+				"eta",
+				"etapeHasBien"
+			],
+			[
+				"active",
+				"activeComites"
+			],
+			[
+				"activ",
+				"activeComites"
+			],
+			[
+				"Apollo",
+				"ApolloCoreBundle"
+			],
+			[
+				"compl",
+				"completion_choices"
+			],
+			[
+				"ABA",
+				"ABATTEMENT_H"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 4112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "parameters.php",
+			"settings":
+			{
+				"buffer_size": 5646,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "request.php",
+			"settings":
+			{
+				"buffer_size": 2380,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "test.php",
+			"settings":
+			{
+				"buffer_size": 34799,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "classes.php",
+			"settings":
+			{
+				"buffer_size": 3513,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "metadata2.txt",
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Unix",
+				"name": "{\"lastRequestTime\":{\"date\":\"2018-02-07 19:21:33.00"
+			}
+		},
+		{
+			"file": "resume.php",
+			"settings":
+			{
+				"buffer_size": 4644,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Macintosh HD/Sites/www/flights"
+	],
+	"file_history":
+	[
+		"/private/var/log/apache2/access_log",
+		"/Volumes/Macintosh HD/Sites/www/prod.log",
+		"/Volumes/Macintosh HD/Sites/www/pande/var/logs/dev.log",
+		"/private/var/log/apache2/error_log",
+		"/Volumes/Macintosh HD/Sites/www/flights/parameters.php",
+		"/Volumes/Macintosh HD/Sites/www/flights/debug.php",
+		"/Volumes/Macintosh HD/Sites/www/flights/resume.php",
+		"/Volumes/Macintosh HD/Sites/www/flights/index.php",
+		"/Volumes/Macintosh HD/Sites/www/flights/map.php",
+		"/Volumes/Macintosh HD/Sites/www/flights/metadata.txt",
+		"/Volumes/Macintosh HD/Sites/www/flights/css/starter-template.css",
+		"/Volumes/Macintosh HD/Sites/www/flights/js/ie10-viewport-bug-workaround.js",
+		"/Volumes/Macintosh HD/Sites/www/flights/js/jquery.min.js",
+		"/Volumes/Macintosh HD/Sites/www/flights/parameters.class.php",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p2_sci_viageneration.html.twig",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p1_sci_viageneration.html.twig",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p4_sci_viageneration.html.twig",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p3_sci_viageneration.html.twig",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p5_sci_viageneration.html.twig",
+		"/Volumes/Macintosh HD/Downloads/tarification.class.php",
+		"/Volumes/Macintosh HD/Downloads/Tarification.php",
+		"/Volumes/Macintosh HD/Downloads/ComiteController.php",
+		"/Volumes/Macintosh HD/Downloads/BienManager.php",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p1_unmi.html.twig",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p5_unmi.html.twig",
+		"/Volumes/Macintosh HD/Downloads/server.php",
+		"/Volumes/Macintosh HD/Downloads/ComiteManager.php",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p4_unmi.html.twig",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p3_unmi.html.twig",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p2_unmi.html.twig",
+		"/Volumes/Macintosh HD/Downloads/config.php",
+		"/Volumes/Macintosh HD/Downloads/ApiCaller.php",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p5.html.twig",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p4.html.twig",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p1.html.twig",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p2.html.twig",
+		"/Volumes/Macintosh HD/Downloads/offre_achat_p3.html.twig",
+		"/Volumes/Macintosh HD/Downloads/comite_p2.html.twig",
+		"/Volumes/Macintosh HD/Downloads/comite_p2_unmi.html.twig",
+		"/Volumes/Macintosh HD/Downloads/p3.html.twig",
+		"/Volumes/Macintosh HD/Downloads/p4.html.twig",
+		"/Volumes/Macintosh HD/Downloads/public_p1.html.twig",
+		"/Volumes/Macintosh HD/Downloads/showPdf.pdf.twig",
+		"/Volumes/Macintosh HD/Downloads/p2.html.twig",
+		"/Volumes/Macintosh HD/Downloads/p1.html.twig",
+		"/Volumes/Macintosh HD/Downloads/comite_p1.html.twig",
+		"/Volumes/Macintosh HD/Downloads/historique.html.twig",
+		"/Volumes/Macintosh HD/Downloads/investor_p1.html.twig",
+		"/Volumes/Macintosh HD/Sites/www/flights/index2.php",
+		"/Volumes/Macintosh HD/Downloads/Harry.Potter.And.The.Deathly.Hallows.Part.2.2011.720p.BrRip.264.YIFY.mkv-muxed.srt",
+		"/Users/romainrossier/.ssh/known_hosts",
+		"/Volumes/RECOVERY/recovery.cmdline",
+		"/Volumes/PICARD/os/OSMC_Multi-Boot/os.json",
+		"/Volumes/PICARD/os/RetroPie/os.json",
+		"/Volumes/PICARD/recovery.cmdline",
+		"/Volumes/PICARD/os/Raspbian/os.json",
+		"/Volumes/Macintosh HD/Downloads/RetroPie_KODI_RasPlex_Raspbian_300916/NOOBS Files/recovery.cmdline",
+		"/Volumes/Macintosh HD/Downloads/RetroPie_KODI_RasPlex_Raspbian_300916/NOOBS Files/os/Raspbian_Multi-Boot/os.json",
+		"/Volumes/Macintosh HD/Downloads/RetroPie_KODI_RasPlex_Raspbian_300916/NOOBS Files/recovery.elf",
+		"/Volumes/Macintosh HD/Downloads/RetroPie_KODI_RasPlex_Raspbian_300916/NOOBS Files/os/RetroPie/os.json",
+		"/Volumes/Macintosh HD/Downloads/RetroPie_KODI_RasPlex_Raspbian_300916/NOOBS Files/BUILD-DATA",
+		"/Volumes/Macintosh HD/Downloads/RetroPie_KODI_RasPlex_Raspbian_300916/NOOBS Files/bootcode.bin",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/CoreBundle/Entity/ApiCaller.php",
+		"/Volumes/Macintosh HD/Downloads/PartenaireController.php",
+		"/Volumes/Macintosh HD/Downloads/Bien.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/CoreBundle/Entity/Tarification.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/CoreBundle/Entity/Bien.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/PlateformeBundle/Form/Type/BienFormType.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/PlateformeBundle/Manager/BienManager.php",
+		"/Volumes/Macintosh HD/Downloads/The Code Au - S02E03.srt",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/app/logs/dev.log",
+		"/Volumes/Macintosh HD/Downloads/BienManager~.php",
+		"/private/var/log/apache2/gestion-viager-error_log",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x04 - The Good, The Bad, and The Dead.DEFLATE.English.C.orig.Addic7ed.com.srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x03 - Our Man in Madrid.SKGTV.English.C.orig.Addic7ed.com.srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x03 - Our Man in Madrid.SKGTV.English.HI.C.orig.Addic7ed.com.srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x03 - Our Man in Madrid.SKGTV.Trans.English.HI.C.orig.Addic7ed.com.srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x02 - Cambalache.SKGTV.Trans.English.HI.C.orig.Addic7ed.com.srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x02 - Cambalache.SKGTV.Trans.English.C.orig.Addic7ed.com.srt",
+		"/Volumes/Macintosh HD/Downloads/narcos.s02.e02.cambalache.(2016).eng.1cd.(6724413)/Narcos.S02E02.WEB.X264-DEFLATE.HI.srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x03 - Our Man in Madrid.SKGTV.Trans.English.C.orig.Addic7ed.com.srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x02 - Cambalache.DEFLATE.English.C.orig.Addic7ed.com.srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x02 - Cambalache.SKGTV.English.HI.C.orig.Addic7ed.com.srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x02 - Cambalache.SKGTV.English.HI.C.orig.Addic7ed.com (1).srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x02 - Cambalache.SKGTV.English.C.orig.Addic7ed.com (1).srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x02 - Cambalache.SKGTV.English.C.orig.Addic7ed.com.srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos - 02x02 - Cambalache.SKGTV.French.C.orig.Addic7ed.com.srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos.S02E02.WEB.X264-DEFLATE[ettv]/Narcos.S02E02.WEB.X264-DEFLATE[ettv].srt",
+		"/Volumes/Macintosh HD/Downloads/Narcos.S02E02.WEB.X264-DEFLATE[ettv].srt",
+		"/Volumes/CORSAIR/The Sopranos Season 3 - COMPLETE S03 w Eng softsubs 720p WEBRip x264 [MKV,AC3,5.1] Ehhhh/The Sopranos Season 3 Subtitles/S03E01 - Mr. Ruggerio's Neighborhood - Ehhhh.srt",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/private/etc/hosts",
+		"/private/etc/php.ini",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/.htaccess",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/app/config/parameters.yml",
+		"/private/var/log/apache2/gestion-viager-access_log",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/PlateformeBundle/Resources/views/Reporting/acquereurs.html.twig",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/PlateformeBundle/Resources/views/Reporting/concentrateur.html.twig",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/PlateformeBundle/Resources/views/Reporting/acquereur.html.twig",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/PlateformeBundle/Resources/views/Reporting/index.html.twig",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/PlateformeBundle/Resources/views/Reporting/agence.html.twig",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/CoreBundle/Repository/ClientRepository.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/CoreBundle/Entity/Reporting.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/CoreBundle/Repository/CompromisRepository.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/CoreBundle/Entity/Acquereur.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/PlateformeBundle/Controller/ReportingController.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager master/config",
+		"/Volumes/Macintosh HD/Sites/www/calculs-viager/.git/sourcetreeconfig",
+		"/Volumes/Macintosh HD/Downloads/.htaccess",
+		"/Volumes/Macintosh HD/Downloads/.ovhconfig~",
+		"/Volumes/Macintosh HD/Downloads/.ovhconfig",
+		"/Volumes/Macintosh HD/Downloads/.bash_profile",
+		"/Volumes/Macintosh HD/Downloads/.bashrc",
+		"/Volumes/Macintosh HD/Downloads/.bash_logout",
+		"/Volumes/Macintosh HD/Downloads/lyrecapiqbdb.sql",
+		"/Volumes/Macintosh HD/Downloads/www/wp-config.php",
+		"/Volumes/Macintosh HD/Downloads/www/cloud/config/config.php",
+		"/Volumes/Macintosh HD/Séries/Better.Call.Saul.S02E06.WEB-DL.x264-FUM[ettv].srt",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/CoreBundle/Repository/AcquereurRepository.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/PlateformeBundle/Resources/views/Blocks/sidebar.html.twig",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/CoreBundle/Entity/Compromis.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/CoreBundle/Repository/BienRepository.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/PlateformeBundle/Controller/BienController.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/CoreBundle/Entity/BienHasEtape.php",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/PlateformeBundle/Resources/views/Bien/addBien.html.twig",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/PlateformeBundle/Resources/views/Bien/Tabs/bien.html.twig",
+		"/Volumes/Macintosh HD/Sites/www/gestion-viager/src/Apollo/CoreBundle/Entity/Comite.php",
+		"/Volumes/Macintosh HD/Downloads/bien (1).sql"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/Macintosh HD/Sites/www/gestion-viager"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"->format('Y-m-d')",
+			"folderName",
+			"variables",
+			"['",
+			"minTotals",
+			"budgets",
+			"forecastLength",
+			"d-m-Y",
+			"minQuote",
+			"quote",
+			"duration",
+			"minQuote",
+			"metadata",
+			"minTotals",
+			"setTableauCapitalComplementaire",
+			"client",
+			"data",
+			"getDataAPI",
+			"duh_cible",
+			"client",
+			"Depart",
+			"Aller",
+			"d-m-Y",
+			"Aller",
+			"d/m/Y",
+			"date_parse_from_format(\"Y-m-d\\\\TH:iP\", ",
+			"heureDepartAller",
+			"heure",
+			"td",
+			"th",
+			"->segment->leg",
+			"Aller",
+			"code",
+			"pre",
+			"\"",
+			"'.",
+			": ",
+			"\"",
+			"'.$",
+			": ",
+			"str",
+			"'.$",
+			"string",
+			"integer",
+			"type",
+			"iter",
+			"source",
+			"loglevel",
+			"lyrecapital",
+			"lyrecapiqbdb",
+			"lyrecapital",
+			"acquereur_name",
+			"acquereur_id",
+			"agence",
+			"start_date",
+			"_date",
+			"new ",
+			"agence",
+			"getNomCommercial",
+			"Agence",
+			"AgenceImmobiliere",
+			"agence",
+			"agence_name",
+			"findByDate",
+			"acquereur",
+			"bien",
+			"agence_id",
+			"end_date",
+			"acquereur",
+			"findEncadre",
+			"acquereur",
+			"nomCommercial",
+			"agence",
+			"['flux_totaux']",
+			"[$index]",
+			"repartition",
+			"fluxGlobauxCondense",
+			"flux_agence",
+			"comite",
+			"agence_name",
+			"agence",
+			"fluxGlobaux",
+			"_realises",
+			"{$repartition[$statut]}",
+			" : 0",
+			"getLastE",
+			"\n                            ",
+			"statutsPossibles",
+			"Partenaire",
+			"info",
+			"default",
+			"Compromis",
+			"comites",
+			"compromis",
+			"acquereur_id",
+			", ",
+			"info",
+			"statutsPossibles",
+			"value",
+			"acquereur",
+			"Compromis",
+			"compromis",
+			"etape1",
+			"biens",
+			"id_acquereur",
+			"addReporting",
+			"listeReportings",
+			"Acquereur",
+			"ORM",
+			"\",",
+			"info",
+			"ref",
+			"query",
+			"ref",
+			"bien.ref",
+			"{{ bien.ref }}",
+			"ref",
+			"[{{ bien.ref }}]",
+			"{{ bien.ref }}",
+			"\n\"",
+			"\n",
+			"\"",
+			"\",",
+			"diagnostics",
+			"bien",
+			"diagnostics",
+			"value.",
+			"lat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"relyinvest",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3475,
+								3475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1005.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "parameters.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4375,
+								4375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1477.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "request.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1744,
+								1744
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34799,
+								34799
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "classes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								532,
+								532
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1155.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "metadata2.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{\"lastRequestTime\":{\"date\":\"2018-02-07 19:21:33.00",
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resume.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3496,
+								3507
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "flights.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"clientrep",
+				"src/Apollo/CoreBundle/Repository/ClientRepository.php"
+			],
+			[
+				"acquerurepo",
+				"src/Apollo/CoreBundle/Repository/AcquereurRepository.php"
+			],
+			[
+				"acqu",
+				"src/Apollo/CoreBundle/Entity/Acquereur.php"
+			],
+			[
+				"sideb",
+				"src/Apollo/PlateformeBundle/Resources/views/Blocks/sidebar.html.twig"
+			],
+			[
+				"acque",
+				"src/Apollo/CoreBundle/Entity/Acquereur.php"
+			],
+			[
+				"compro",
+				"src/Apollo/CoreBundle/Entity/Compromis.php"
+			],
+			[
+				"comproreps",
+				"src/Apollo/CoreBundle/Repository/CompromisRepository.php"
+			],
+			[
+				"comprom",
+				"src/Apollo/CoreBundle/Entity/Compromis.php"
+			],
+			[
+				"bienrepo",
+				"src/Apollo/CoreBundle/Repository/BienRepository.php"
+			],
+			[
+				"acquer",
+				"src/Apollo/CoreBundle/Entity/Acquereur.php"
+			],
+			[
+				"bienhaset",
+				"src/Apollo/CoreBundle/Entity/BienHasEtape.php"
+			],
+			[
+				"tarifi",
+				"src/Apollo/CoreBundle/Entity/Tarification.php"
+			],
+			[
+				"bien",
+				"src/Apollo/CoreBundle/Entity/Bien.php"
+			],
+			[
+				"comite",
+				"src/Apollo/CoreBundle/Entity/Comite.php"
+			],
+			[
+				"bienformt",
+				"src/Apollo/PlateformeBundle/Form/Type/BienFormType.php"
+			],
+			[
+				"tarififormt",
+				"src/Apollo/PlateformeBundle/Form/Type/TarificationFormType.php"
+			],
+			[
+				"bienfor",
+				"src/Apollo/PlateformeBundle/Form/Type/BienFormType.php"
+			],
+			[
+				"bienre",
+				"src/Apollo/CoreBundle/Repository/BienRepository.php"
+			],
+			[
+				"listebi",
+				"src/Apollo/PlateformeBundle/Resources/views/Bien/listeBiens.html.twig"
+			],
+			[
+				"addbie",
+				"src/Apollo/PlateformeBundle/Resources/views/Bien/addBien.html.twig"
+			],
+			[
+				"addcont",
+				"src/Apollo/PlateformeBundle/Resources/views/Bien/addContact.html.twig"
+			],
+			[
+				"etapecont",
+				"src/Apollo/PlateformeBundle/Controller/EtapeController.php"
+			],
+			[
+				"bienformha",
+				"src/Apollo/PlateformeBundle/Form/Handler/BienFormHandler.php"
+			],
+			[
+				"diag",
+				"src/Apollo/CoreBundle/Entity/Diagnostics.php"
+			],
+			[
+				"dia",
+				"src/Apollo/PlateformeBundle/Form/Type/DiagnosticsFormType.php"
+			],
+			[
+				"diagform",
+				"src/Apollo/PlateformeBundle/Form/Type/DiagnosticsFormType.php"
+			],
+			[
+				"bienformh",
+				"src/Apollo/PlateformeBundle/Form/Handler/BienFormHandler.php"
+			],
+			[
+				"bienform",
+				"src/Apollo/PlateformeBundle/Form/Handler/BienFormHandler.php"
+			],
+			[
+				"bie",
+				"src/Apollo/CoreBundle/Entity/Bien.php"
+			],
+			[
+				"etape",
+				"src/Apollo/CoreBundle/Entity/Etape.php"
+			],
+			[
+				"acquereur",
+				"src/Apollo/CoreBundle/Entity/Acquereur.php"
+			],
+			[
+				"sidebar",
+				"src/Apollo/PlateformeBundle/Resources/views/Blocks/sidebar.html.twig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
