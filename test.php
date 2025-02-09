@@ -24,4 +24,3 @@ foreach ($days as $day) {
 	var_dump($day);
 }
 
-"http://partners.api.skyscanner.net/apiservices/browsedates/v1.0/DE/EUR/en-GB/MUC/KEF/2018-09/2018-10?apiKey=prtl6749387986743898559646983194";
